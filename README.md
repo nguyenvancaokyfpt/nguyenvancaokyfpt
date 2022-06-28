@@ -29,9 +29,9 @@
 
 ### :zap: Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nguyenvancaoky&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nguyenvancaokyfpt&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nguyenvancaokyfpt?theme=rule34" alt="Moe Counter" title="Moe Counter"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nguyenvancaoky?theme=rule34" alt="Moe Counter" title="Moe Counter"></a>
 </p>
 
