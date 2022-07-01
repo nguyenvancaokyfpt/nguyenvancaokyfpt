@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 [![](https://img.shields.io/badge/Lua%20-2C2D72?&style=flat-square&logo=Lua&ogoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/Autohotkey-13740a?style=flat-square&logo=AutoHotkey&logoColor=white)](https://www.autohotkey.com/)
+[![](https://img.shields.io/badge/Autohotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white)](https://www.autohotkey.com/)
 [![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)](https://html.spec.whatwg.org)
 
 [![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)](https://www.ecma-international.org)
