@@ -6,6 +6,7 @@
 
 [![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/Go%20-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 [![](https://img.shields.io/badge/Lua%20-2C2D72?&style=flat-square&logo=Lua&ogoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
