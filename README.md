@@ -39,6 +39,6 @@
 ![](https://raw.githubusercontent.com/nguyenvancaokyfpt/my-stats/output/generated/languages.svg)
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nguyenvancaoky?theme=rule34" alt="Moe Counter" title="Moe Counter"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nguyenvancaoky?theme=gelbooru" alt="Moe Counter" title="Moe Counter"></a>
 </p>
 
