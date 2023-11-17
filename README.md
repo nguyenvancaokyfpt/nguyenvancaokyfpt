@@ -31,13 +31,6 @@
 [![](https://img.shields.io/badge/-t.me/nguyenvancaoky-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/nguyenvancaoky)
 [![](https://img.shields.io/badge/-nguyenvancaoky@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:nguyenvancaoky@gmail.com)
 
-### :zap: Github Stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nguyenvancaokyfpt&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://raw.githubusercontent.com/nguyenvancaokyfpt/my-stats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/nguyenvancaokyfpt/my-stats/output/generated/languages.svg)
-
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nguyenvancaoky?theme=gelbooru" alt="Moe Counter" title="Moe Counter"></a>
 </p>
